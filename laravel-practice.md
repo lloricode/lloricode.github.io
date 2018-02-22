@@ -5,6 +5,7 @@
 - composer
 - write plain `php` to see how composer works
 - autoloading files
+- Git manage like what is to `.gitignore`
 
 ## Install
 - via `composer` in  `global` or `local`
