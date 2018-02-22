@@ -55,7 +55,7 @@ Laravel development server started: <http://127.0.0.1:8000>
 
 ## Relationships
 - set relation through `models`
-- Query Bilder
+- query Bilder
 
 ## Authentications
 - middlewares
@@ -64,13 +64,28 @@ Laravel development server started: <http://127.0.0.1:8000>
 - custome rules
 
 ## Notificatons
+- through `email`
+- through `database`
+
+## Policy
+- registering to `provider`
 
 ## Events / Listeners
+- registering to `provider`
+- creating `events` then add `listener`
 
 ## Email
 
 ## Unit Testing with PHPUnit
+- assertion types
+- beautiful print
 
 ## Custome Console with Artisan Command
+- registering to `kernel`
 
 ## Packagist
+- dependencies
+- install
+- autoloader
+- except autoload
+- make our own
