@@ -48,8 +48,19 @@ Laravel development server started: <http://127.0.0.1:8000>
 - resource
 
 ## Routing
+- wild card
+- namespace
+- as
+- group
+- prefix
+- middleware | permission
+- list
 - resouce
-- middleware
+- set names
+- get
+- post
+- put
+- delete
 
 ## Migration
 - `php artisan make:migration` , and parameters
