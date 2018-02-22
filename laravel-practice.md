@@ -85,6 +85,9 @@ Laravel development server started: <http://127.0.0.1:8000>
 
 ## Authentications
 - middlewares
+## Validation
+- through `Request` class
+- through local `controller`
 
 ## Rules
 - custome rules
