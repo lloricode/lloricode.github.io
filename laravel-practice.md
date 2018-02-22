@@ -70,6 +70,7 @@ Laravel development server started: <http://127.0.0.1:8000>
 * Generate Auth
 - `php artisan make:auth`
 - `php artisan migrate --seed`
+- how auth works behiind `framework`
 
 
 
