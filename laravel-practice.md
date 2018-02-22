@@ -7,6 +7,7 @@
 - autoloading files
 
 ## Install
+- via `composer` in  `global` or `local`
 - composer `composer create-project --prefer-dist laravel/laravel <project-folder-name>`
 - serve `php artisan serve`
 ```
