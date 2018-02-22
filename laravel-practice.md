@@ -1,5 +1,10 @@
 # Laravel Practise
 
+## What is, How does it work
+- why composer
+- composer
+- write plain `php` to see how composer works
+- autoloading files
 
 ## Install
 - composer `composer create-project --prefer-dist laravel/laravel <project-folder-name>`
