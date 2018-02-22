@@ -1,7 +1,7 @@
 ## Laravel Practise
 
 
-# #Install
+## Install
 - composer `composer create-project --prefer-dist laravel/laravel <project-folder-name>`
 - serve `php artisan serve`
 ```
