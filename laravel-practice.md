@@ -24,10 +24,16 @@ Laravel development server started: <http://127.0.0.1:8000>
 # Views
 - passing data
 - using composer view 
+
 # Controller
 - `php artisan make:controller` , and parameters
 - add midleware
-- 
+- resource
+
+# Routing
+- resouce
+- middleware
+
 # Migration
 - `php artisan make:migration` , and parameters
 - 
@@ -42,6 +48,7 @@ Laravel development server started: <http://127.0.0.1:8000>
 # CRUD
 - crud `create, read, update, delete`
 - validations
+- manage Request
 
 # Relationships
 - set relation through `models`
@@ -49,5 +56,14 @@ Laravel development server started: <http://127.0.0.1:8000>
 
 # Authentications
 - middlewares
+
+# Rules
+- custome rules
+
+# Notificatons
+
+# Events / Listeners
+
+# Email
 
 
