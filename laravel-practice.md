@@ -12,7 +12,7 @@ Laravel development server started: <http://127.0.0.1:8000>
 *note when local serve*
 - when updating `.env`, you need to stop `serving` by `ctrl + C`, then re-run it.
 # Model
-- 'php artisan make:model ', and parameters
+- `php artisan make:model` , and parameters
 - fillable
 - attributes
 - scope
