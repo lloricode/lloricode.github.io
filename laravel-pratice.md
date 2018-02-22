@@ -1,4 +1,4 @@
-## Install
+# Install
 - composer `composer create-project --prefer-dist laravel/laravel <project-folder-name>`
 - serve `php artisan serve`
 ```
@@ -12,24 +12,24 @@ Laravel development server started: <http://127.0.0.1:8000>
 *note when local serve*
 - when updating `.env`, you need to stop `serving` by `ctrl + C`, then re-run it.
 
-## Auth Scaffolding 
-# Generate Auth
+# Auth Scaffolding 
+## Generate Auth
 - `php artisan make:auth`
 - `php artisan migrate --seed`
 
 
-## Models, Views, Controllers,
+# Models, Views, Controllers,
 
 -
 
-## CRUD
+# CRUD
 - crud `create, read, update, delete`
 - validations
 
-## Relationships
+# Relationships
 - Query Bilder
 
-## Authentications
+# Authentications
 - middlewares
 
 
