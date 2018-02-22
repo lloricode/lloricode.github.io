@@ -1,4 +1,4 @@
-# Laravel Practise
+# Laravel Practice
 
 ## What is, How does it work
 - why composer
