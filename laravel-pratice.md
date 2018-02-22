@@ -1,7 +1,17 @@
 ## Install
-- composer `composer create-project --prefer-dist laravel/laravel myapp`
-- serve `local`
+- composer `composer create-project --prefer-dist laravel/laravel <project-folder-name>`
+- serve `php artisan serve`
+```
+## if
+Laravel development server started: <http://127.0.0.1:8000>
+[Thu Feb 22 12:52:36 2018] Failed to listen on 127.0.0.1:8000 (reason: Address already in use)
+```
+- serve 'php artisan serve --port <your-available-port>'
 - .env `automatic with composer create-project`
+
+## Auth Scaffolding 
+- `php artisan make:auth`
+
 
 ## Models, Views, Controllers,
 
