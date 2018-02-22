@@ -13,9 +13,11 @@ Laravel development server started: <http://127.0.0.1:8000>
 - when updating `.env`, you need to stop `serving` by `ctrl + C`, then re-run it.
 
 # Auth Scaffolding 
-## Generate Auth
+* Generate Auth
 - `php artisan make:auth`
 - `php artisan migrate --seed`
+
+
 
 
 # Models, Views, Controllers,
