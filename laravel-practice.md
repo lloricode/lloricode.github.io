@@ -25,11 +25,11 @@ Laravel development server started: <http://127.0.0.1:8000>
 - passing data
 - using composer view 
 # Controller
-- 'php artisan make:controller ', and parameters
+- `php artisan make:controller` , and parameters
 - add midleware
 - 
 # Migration
-- 'php artisan make:migration ', and parameters
+- `php artisan make:migration` , and parameters
 - 
 
 # Auth Scaffolding 
