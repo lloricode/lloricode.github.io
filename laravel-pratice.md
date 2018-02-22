@@ -6,11 +6,15 @@
 Laravel development server started: <http://127.0.0.1:8000>
 [Thu Feb 22 12:52:36 2018] Failed to listen on 127.0.0.1:8000 (reason: Address already in use)
 ```
-- serve 'php artisan serve --port <your-available-port>'
+- serve `php artisan serve --port <your-available-port>`
 - .env `automatic with composer create-project`
+
+*note*
+- when updating `.env`, you need to stop `serving` by `ctrl + C`, then re-run it.
 
 ## Auth Scaffolding 
 - `php artisan make:auth`
+- `php artisan migrate --seed`
 
 
 ## Models, Views, Controllers,
