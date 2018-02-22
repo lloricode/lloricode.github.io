@@ -22,6 +22,12 @@ Laravel development server started: <http://127.0.0.1:8000>
 - when updating `.env`, you need to stop `serving` by `ctrl + C`, then re-run it.
 
 - `php artisan key:generate`
+
+## Developing Environtments
+- local
+- Homestead
+- preparing database with homestead
+- preparing database with local
 ## Model
 - `php artisan make:model` , and parameters
 - fillable
