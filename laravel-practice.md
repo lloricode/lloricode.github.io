@@ -1,4 +1,7 @@
-# Install
+## Laravel Practise
+
+
+# #Install
 - composer `composer create-project --prefer-dist laravel/laravel <project-folder-name>`
 - serve `php artisan serve`
 ```
@@ -11,7 +14,7 @@ Laravel development server started: <http://127.0.0.1:8000>
 
 *note when local serve*
 - when updating `.env`, you need to stop `serving` by `ctrl + C`, then re-run it.
-# Model
+## Model
 - `php artisan make:model` , and parameters
 - fillable
 - attributes
@@ -21,49 +24,49 @@ Laravel development server started: <http://127.0.0.1:8000>
 - getdata
 - pagination
 
-# Views
+## Views
 - passing data
 - using composer view 
 
-# Controller
+## Controller
 - `php artisan make:controller` , and parameters
 - add midleware
 - resource
 
-# Routing
+## Routing
 - resouce
 - middleware
 
-# Migration
+## Migration
 - `php artisan make:migration` , and parameters
 - 
 
-# Auth Scaffolding 
+## Auth Scaffolding 
 * Generate Auth
 - `php artisan make:auth`
 - `php artisan migrate --seed`
 
 
 
-# CRUD
+## CRUD
 - crud `create, read, update, delete`
 - validations
 - manage Request
 
-# Relationships
+## Relationships
 - set relation through `models`
 - Query Bilder
 
-# Authentications
+## Authentications
 - middlewares
 
-# Rules
+## Rules
 - custome rules
 
-# Notificatons
+## Notificatons
 
-# Events / Listeners
+## Events / Listeners
 
-# Email
+## Email
 
 
