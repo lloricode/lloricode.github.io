@@ -17,7 +17,8 @@ Laravel development server started: <http://127.0.0.1:8000>
 - `php artisan make:auth`
 - `php artisan migrate --seed`
 
-
+# Migration
+- 
 
 
 # Models, Views, Controllers,
@@ -29,6 +30,7 @@ Laravel development server started: <http://127.0.0.1:8000>
 - validations
 
 # Relationships
+- set relation through `models`
 - Query Bilder
 
 # Authentications
