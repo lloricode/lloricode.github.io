@@ -9,7 +9,7 @@ Laravel development server started: <http://127.0.0.1:8000>
 - serve `php artisan serve --port <your-available-port>`
 - .env `automatic with composer create-project`
 
-*note*
+*note when local serve*
 - when updating `.env`, you need to stop `serving` by `ctrl + C`, then re-run it.
 
 ## Auth Scaffolding 
