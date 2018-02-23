@@ -113,6 +113,9 @@ Laravel development server started: <http://127.0.0.1:8000>
 
 ## Email
 
+## Tinker
+- `php artisan tinker`
+
 ## Unit Testing with PHPUnit
 - setting up test `classes`
 - setting up test `methods`
