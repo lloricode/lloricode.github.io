@@ -113,6 +113,10 @@ Laravel development server started: <http://127.0.0.1:8000>
 
 ## Email
 
+## Managing Codes
+- using `traits`
+- using `repository`
+
 ## Tinker
 - `php artisan tinker`
 
