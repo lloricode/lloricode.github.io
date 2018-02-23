@@ -48,6 +48,13 @@ Laravel development server started: <http://127.0.0.1:8000>
 - add midleware
 - resource
 
+## Query Buliders
+- scope
+- eager load
+- pagination
+- find
+- get
+- first
 ## Routing
 - wild card
 - namespace
