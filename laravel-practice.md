@@ -72,7 +72,8 @@ Laravel development server started: <http://127.0.0.1:8000>
 
 ## Migration
 - `php artisan make:migration` , and parameters
-- 
+- faker
+- seeder
 
 ## Auth Scaffolding 
 * Generate Auth
