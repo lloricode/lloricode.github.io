@@ -101,6 +101,11 @@ Laravel development server started: <http://127.0.0.1:8000>
 ## Rules
 - custome rules
 
+## Middleware
+- on routes
+- on controllers
+- custome middleware
+
 ## Notificatons
 - through `email`
 - through `database`
