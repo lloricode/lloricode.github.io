@@ -31,6 +31,7 @@ Laravel development server started: <http://127.0.0.1:8000>
 - preparing database with local
 ## Model
 - `php artisan make:model` , and parameters
+- relationship
 - fillable
 - attributes
 - scope
